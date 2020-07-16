@@ -33,33 +33,20 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 * ### [LinkedIn Learning :fire:](https://www.linkedin.com/learning/)
 >*LinkedIn is now making the following learning paths in LinkedIn Learning available for free (until March 2021)*:
 
-__Become a Software Developer__: https://bit.ly/2W0RpkH
-
-__Become a Sales Representative__: https://bit.ly/2VM1jX3
-
- __Become a Project Manager__: https://bit.ly/3dYGEWb
-
-__Prepare for CompTIA Network+ Certification__: https://bit.ly/3iuh8eM
-
-__Become a Customer Service Specialist__: https://bit.ly/3inMMdX
-
-__Become a Digital Marketing Specialist__ https://bit.ly/2VM1ulb
-
-__Prepare for the CompTIA A+ Certification__: https://bit.ly/3f0fPSv
-
-__Become a Data Analyst__: https://bit.ly/2YWEBNM
-
-__Become a Financial Analyst__: https://bit.ly/3gjCOZ4
-
-__Become a Graphic Designer__: https://bit.ly/2NWlP2Z
-
+>__Become a Software Developer__: https://bit.ly/2W0RpkH
+>__Become a Sales Representative__: https://bit.ly/2VM1jX3
+ >__Become a Project Manager__: https://bit.ly/3dYGEWb
+>__Prepare for CompTIA Network+ Certification__: https://bit.ly/3iuh8eM
+>__Become a Customer Service Specialist__: https://bit.ly/3inMMdX
+>__Become a Digital Marketing Specialist__ https://bit.ly/2VM1ulb
+>__Prepare for the CompTIA A+ Certification__: https://bit.ly/3f0fPSv
+>__Become a Data Analyst__: https://bit.ly/2YWEBNM
+>__Become a Financial Analyst__: https://bit.ly/3gjCOZ4
+>__Become a Graphic Designer__: https://bit.ly/2NWlP2Z
 >__Finding a Job During Challenging Economic Times__: https://bit.ly/31GCWh8
-
-__Master In-Demand Professional Soft Skills__: https://bit.ly/2CZthrJ
-
-__Digital Transformation in Practice- Virtual Collaboration Tools__: https://bit.ly/3imTssC
-
-__Diversity, Inclusion, and Belonging for All__: https://bit.ly/38pbK7W
+>__Master In-Demand Professional Soft Skills__: https://bit.ly/2CZthrJ
+>__Digital Transformation in Practice- Virtual Collaboration Tools__: https://bit.ly/3imTssC
+>__Diversity, Inclusion, and Belonging for All__: https://bit.ly/38pbK7W
 
 ### [Python Venue :link:](http://pythonvenue.blogspot.com/)
 > Provides **100% OFF - coupon codes** for random computer science courses on **Udemy** everyday, so that you can get enrolled and certified for free!
