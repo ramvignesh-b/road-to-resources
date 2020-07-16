@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg">
+<img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg">
 </p>
 
 # Learn for free
@@ -32,15 +32,25 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 
 * ### [LinkedIn Learning :fire:](https://www.linkedin.com/learning/)
 >*LinkedIn is now making the following learning paths in LinkedIn Learning available for free (until March 2021)*:
+<br>
 __Become a Software Developer__: https://bit.ly/2W0RpkH
+<br>
 __Become a Sales Representative__: https://bit.ly/2VM1jX3
+<br>
  __Become a Project Manager__: https://bit.ly/3dYGEWb
+<br>
 __Prepare for CompTIA Network+ Certification__: https://bit.ly/3iuh8eM
+<br>
 __Become a Customer Service Specialist__: https://bit.ly/3inMMdX
+<br>
 __Become a Digital Marketing Specialist__ https://bit.ly/2VM1ulb
+<br>
 __Prepare for the CompTIA A+ Certification__: https://bit.ly/3f0fPSv
+<br>
 __Become a Data Analyst__: https://bit.ly/2YWEBNM
+<br>
 __Become a Financial Analyst__: https://bit.ly/3gjCOZ4
+<br>
 __Become a Graphic Designer__: https://bit.ly/2NWlP2Z
 
 >__Finding a Job During Challenging Economic Times__: https://bit.ly/31GCWh8
