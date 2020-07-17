@@ -69,9 +69,6 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 * ### [GeeksForGeeks](https://www.geeksforgeeks.org/)
 > A great portal to prepare for interviews and gain knowledge across several CS domains.
 
-* ### [Coursera](https://www.coursera.org/)
-> A great learning platform that offers free massive online courses and specialization courses across various CS and other domains.
-
 <hr>
 <hr> 
 
