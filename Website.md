@@ -79,3 +79,6 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 
 * ### [Overleaf Deedy CV Template](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
 > This is a very popular resume template made by Debarghya Das. It's a compact and stylish one-page two-column resume template. It's written in Latex format and can be edited using Overleaf's online Latex Editor.
+
+* ### [Marvel](https://marvelapp.com/)
+> **Marvel** is an excellent online tool which allow designers to create prototypes for mobile application and web projects.
