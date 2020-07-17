@@ -77,4 +77,5 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 * ### [Resume tools](https://cultivatedculture.com/tools/)
 > **100% free** online Resume Builder with dozens of templates to choose from. Also provides free **Resume Analysis** services
 
-* ### 
+* ### [Overleaf Deedy CV Template](https://www.overleaf.com/latex/templates/deedy-cv/bjryvfsjdyxz)
+> This is a very popular resume template made by Debarghya Das. It's a compact and stylish one-page two-column resume template. It's written in Latex format and can be edited using Overleaf's online Latex Editor.
