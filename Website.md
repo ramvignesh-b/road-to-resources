@@ -6,9 +6,14 @@
 <hr>
 <p align="center">
 <strong>Legend:</strong>
+<br>
 🔥 - Most popular
+<br>
 🚀 - Startup community
+<br>
 🔗 - Contains a list of links to other sources
+<br>
+⏰ - Available for a limited time
 </p>
 <hr>
 
@@ -23,14 +28,14 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 * ### [Hackr:link:](https://hackr.io/)
 > Contains curated links of tutorials, both paid and free.
 
-* ### [WorkAt.Tech :rocket:](https://workat.tech/)
+* ### [WorkAt.Tech :rocket:](https://work@tech/)
 > Contains various learning resources contributed by expert developers, challenging problem sets and interview preparation kit.
 
 * ### [CS50x: Harvard :fire:](https://cs50.harvard.edu/)
 > The best course to get started with computer programming. Learn the basics of programming while solving challenging problem sets. Straight outta **Harvard OpenCourseWare**!
 ***Bonus:*** You'll be eligible for a **free CS50** certificate upon the completion and submission of the 9 problem sets.
 
-* ### [LinkedIn Learning :fire:](https://www.linkedin.com/learning/)
+* ### [LinkedIn Learning :alarm_clock:](https://www.linkedin.com/learning/)
 >*LinkedIn is now making the following learning paths in LinkedIn Learning available for free (until March 2021)*:
 
 >__Become a Software Developer__: https://bit.ly/2W0RpkH
@@ -48,8 +53,28 @@ Has an elegant UI with **10+ learning tracks**, ranging from Shell scripting to 
 >__Digital Transformation in Practice- Virtual Collaboration Tools__: https://bit.ly/3imTssC
 >__Diversity, Inclusion, and Belonging for All__: https://bit.ly/38pbK7W
 
-### [Python Venue :link:](http://pythonvenue.blogspot.com/)
+* ### [Python Venue :link:](http://pythonvenue.blogspot.com/)
 > Provides **100% OFF - coupon codes** for random computer science courses on **Udemy** everyday, so that you can get enrolled and certified for free!
+
+* ### [W3Schools :fire:](https://w3schools.com/)
+> Provides tutorials for many programinng languages with a short hands-on experience. *The go-to reference guide for most of the developers!*
+
+* ### [Mozilla Web Development Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+> The complete **reference** guide to excel in web development, suited for all devs from beginners to experts.
+
+* ### [IBM's Cognitive Class :fire:](https://cognitiveclass.ai/)
+> **100% free** data science and AI learning paths provided by **IBM**.
+***Bonus:*** You can earn verifiable badges upon each course completion.
+
+* ### [GeeksForGeeks](https://www.geeksforgeeks.org/)
+> A great portal to prepare for interviews and gain knowledge across several CS domains.
 
 <hr>
 <hr> 
+
+# Misc 
+
+* ### [Resume tools](https://cultivatedculture.com/tools/)
+> **100% free** online Resume Builder with dozens of templates to choose from. Also provides free **Resume Analysis** services
+
+* ### 
